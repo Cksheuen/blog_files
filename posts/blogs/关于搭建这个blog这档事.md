@@ -1,10 +1,3 @@
----
-title: It's about why and how I build up this blog.
-date: '2023-11-5'
----
-
-
-
 # 踩坑记录
 
 ## ——`nuxt`真是太神奇辣
